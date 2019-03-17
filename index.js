@@ -22,10 +22,10 @@ function divide(x,y) {
 
 divide(5.0, 2.5);
 
-var inc(n)
+var n = 10
 function increment(){
   n++;
   return n;
 }
 
-n();
+n;
