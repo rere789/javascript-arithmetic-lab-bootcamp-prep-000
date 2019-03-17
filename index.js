@@ -49,3 +49,7 @@ function preserveDecimal(n) {
   parseFloat('34.88')
   return n;
 }
+
+function preserveDecimal(n){
+  return parseFloat(n);
+}
