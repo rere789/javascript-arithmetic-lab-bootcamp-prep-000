@@ -1,3 +1,4 @@
-function add(1+=8) {
+function add() {
   return add 
 }
+add(1+8); 
