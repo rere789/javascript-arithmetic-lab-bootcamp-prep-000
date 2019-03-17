@@ -22,7 +22,7 @@ function divide(x,y) {
 
 divide(5.0, 2.5);
 
-var number = 10
+number = 10
 
 function inc(n) {
   number += 5
