@@ -17,7 +17,7 @@ function multiply(x,y) {
 multiply(2,3.4);
 
 function divide(x,y) {
-  return x / y;
+  return x/y;
 }
 
 divide(5.0, 2.5);
