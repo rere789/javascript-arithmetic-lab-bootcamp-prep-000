@@ -34,4 +34,4 @@ function dec(n) {
   return n -= 1;
 }
 
-dec(n)
+dec(n);
