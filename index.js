@@ -39,3 +39,10 @@ function makeInt(n) {
   parseInt('2', 10)
   return n;
 }
+
+
+fucntion makeInt(n)
+  parsInt('10', 10)
+  return n;
+  }
+  
