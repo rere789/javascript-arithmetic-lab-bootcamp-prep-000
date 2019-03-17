@@ -22,9 +22,9 @@ function divide(x,y) {
 
 divide(5.0, 2.5);
 
-var number = 5
+var number = 814
 function inc(n) {
-  number += 5
+  number += 1
   return n;
 }
 
