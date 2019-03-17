@@ -28,3 +28,10 @@ function inc(n) {
 }
 
 inc(n);
+
+var number = 11
+function dec(n) {
+  return n -= 1;
+}
+
+dec(n)
