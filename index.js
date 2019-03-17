@@ -41,8 +41,8 @@ function makeInt(n) {
 }
 
 
-fucntion makeInt(n)
-  parsInt('10', 10)
-  return n;
+function makeInt(n)
+  parseInt('0', 10)
+  
   }
   
