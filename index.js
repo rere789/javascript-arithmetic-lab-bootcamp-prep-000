@@ -22,11 +22,9 @@ function divide(x,y) {
 
 divide(5.0, 2.5);
 
-number = 10
-
+var number = 5
 function inc(n) {
   number += 5
+  return n;
 }
 
-inc(n)
-console.log(number);
