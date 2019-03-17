@@ -29,9 +29,9 @@ function inc(n) {
 
 inc(n);
 
-var number = 11
+var number = 4
 function dec(n) {
-  return n -= 4;
+  return n -= 11;
 }
 
 dec(n);
