@@ -1,3 +1,3 @@
-function parseInt('2', 10) {
-  return parsInt; 
+function add(1 + 8) {
+  return add 
 }
