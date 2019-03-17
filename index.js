@@ -29,9 +29,9 @@ function inc(n) {
 
 inc(n);
 
-var number = 135
+var number = 145
 function dec(n) {
-  return n -= 145;
+  return n -= 135;
 }
 
 dec(n);
