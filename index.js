@@ -31,7 +31,7 @@ inc(n);
 
 var number = 11
 function dec(n) {
-  return n -= 5;
+  return n -= 4;
 }
 
 dec(n);
